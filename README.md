@@ -117,7 +117,7 @@ Kako bi bili up-to-date sa izmjenama na upstreamu (a sto ce na kraju, ukoliko co
 
 #### Step 4: Kreiranje pull requesta
 
-Kako smo u proslom koraku izmjene koje smo radili lokalno vec pushali na origin (odn. na forkani repozitorij), kreiranje pull requesta nastavljamo tamo -- na Githubu.
+Kako smo u proslom koraku izmjene koje smo radili lokalno vec pushali na origin (odn. na forkani repozitorij, sa `git push origin`), kreiranje pull requesta nastavljamo tamo -- na Githubu.
 
 1. otici na `https://github.com/YOUR-USERNAME/Vilica`,
 2. kliknuti na "Compare & review" gumb:
@@ -135,3 +135,9 @@ Moguce daljnje akcije su eventualna diskusija u threadu tog pull requesta (uz mo
 ## Sto dalje?
 
 Koristite open source sto vise, postujte trud drugih i ne ustrucavajte se zajednici uzvratiti uslugu!
+
+
+## Hintovi
+
+- ne re-formatirati kood --> nitko ga nece htjeti povuci jer se ne vide stvarne izmjene
+- ne ubacivati funkcionalnost koja nije pokrivena pull requestom
