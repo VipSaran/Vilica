@@ -61,7 +61,7 @@ Ukratko;
 - GPL --> tko god mijenja, kood mora napraviti dostupnim na isti nacin
 - CreativeCommons --> za dokumente, slike
 
-Licencu nije neophodno odabrati!
+Licencu nije neophodno odabrati!!
 
 *[Procitaj](https://github.com/blog/1530-choosing-an-open-source-license) vise o tome.*
 
