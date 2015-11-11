@@ -162,3 +162,6 @@ Koristite open source sto vise, postujte trud drugih i ne ustrucavajte se zajedn
 
 - ne re-formatirati kood --> nitko ga nece htjeti povuci jer se ne vide stvarne izmjene
 - ne ubacivati funkcionalnost koja nije pokrivena pull requestom
+
+
+Hvala na paznji!
