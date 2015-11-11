@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Od nula do novog svjetskog poretka za 45 min ili kako brzo zapoceti doprinositi open source zajednici](#od-nula-do-novog-svjetskog-poretka-za-45-min-ili-kako-brzo-zapoceti-doprinositi-open-source-zajednici)
+  - [Uvod](#uvod)
+    - [Github](#github)
+      - [Open source licence](#open-source-licence)
+      - [Markdown](#markdown)
+  - [Kako doprinijeti open sourceu](#kako-doprinijeti-open-sourceu)
+    - [Pull request](#pull-request)
+      - [Step 1: Forkanje upstream repozitorija](#step-1-forkanje-upstream-repozitorija)
+      - [Step 2: Kloniranje forkanog repozitorija](#step-2-kloniranje-forkanog-repozitorija)
+        - [Drzanje forkanog repozitorija u syncu](#drzanje-forkanog-repozitorija-u-syncu)
+      - [Step 3: Izmjena sadrzaja](#step-3-izmjena-sadrzaja)
+      - [Step 4: Kreiranje pull requesta](#step-4-kreiranje-pull-requesta)
+  - [Sto dalje?](#sto-dalje)
+  - [Hintovi](#hintovi)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Od nula do novog svjetskog poretka za 45 min ili kako brzo zapoceti doprinositi open source zajednici
 
 ## Uvod
